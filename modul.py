@@ -524,7 +524,7 @@ class accounts:
             import Start
         
     def persona():
-
+        logo.logos.main_pers()
         #Personalization
         #Settings page	URI
         #Background	ms-settings:personalization-background
