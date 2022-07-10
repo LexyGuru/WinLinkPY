@@ -1,6 +1,7 @@
 import time
 import os
 import logo
+import Start
 
 class accounts:
     def acc():
@@ -24,28 +25,35 @@ class accounts:
     
         if accsettings ==  accs[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
+
         if accsettings ==  accs[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
+
         if accsettings ==  accs[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start() 
+
         if accsettings ==  accs[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
+
         if accsettings ==  accs[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
+
         if accsettings ==  accs[5]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
+
         if accsettings ==  accs[6]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
+
         if accsettings == accs[7]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
     def app():
         logo.logos.main_apps()
@@ -68,35 +76,35 @@ class accounts:
 
         if accsettings == apps[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == apps[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == apps[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == apps[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == apps[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == apps[5]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == apps[6]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == apps[7]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
     def cort():
         logo.logos.main_cortana()
@@ -116,23 +124,23 @@ class accounts:
 
         if accsettings == cortana[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == cortana[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == cortana[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == cortana[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == cortana[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
     def devi():
         logo.logos.main_devices()
@@ -162,63 +170,63 @@ class accounts:
 
         if accsettings == devices[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == devices[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == devices[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[5]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[6]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[7]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[8]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[9]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[10]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[11]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[12]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[13]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == devices[14]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
     def ease():
         logo.logos.main_ease()
@@ -249,67 +257,67 @@ class accounts:
 
         if accsettings == easee[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[5]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[6]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[7]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[8]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[9]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[10]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[11]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[12]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[13]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[14]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == easee[15]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
      
     def extr():
         logo.logos.main_extr()
@@ -326,7 +334,7 @@ class accounts:
 
         if accsettings == extr[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
     def game():
         logo.logos.main_game()
@@ -347,23 +355,23 @@ class accounts:
 
         if accsettings == game[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == game[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == game[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == game[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == game[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
     def home():
         logo.logos.main_logo()
@@ -385,68 +393,67 @@ class accounts:
 
         if accsettings == home[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[5]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[6]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[7]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[8]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[9]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[10]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[11]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[12]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[13]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[14]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == home[15]:
             os.system("start " + accsettings)
-            import Start
-
+            starter.start()
 
     def netw():
         logo.logos.main_netw()
@@ -477,51 +484,51 @@ class accounts:
 
         if accsettings == network[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[5]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[6]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[7]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[8]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[9]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[10]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
         if accsettings == network[11]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
         
     def persona():
         logo.logos.main_pers()
@@ -543,50 +550,53 @@ class accounts:
         perso = ["ms-settings:personalization-background", "ms-settings:personalization-start-places", "ms-settings:personalization-colors", "ms-settings:personalization-glance", "ms-settings:lockscreen", "ms-settings:personalization-navbar", "ms-settings:personalization", "ms-settings:personalization-start", "ms-settings:taskbar", "ms-settings:personalization-touchkeyboard", "ms-settings:themes"]
         a = ["[00]: Background", "[01]: Choose which folders appear on Start", "[02]: Colors", "[03]: Glance", "[04]: Lock screen", "[05]: Navigation bar", "[06]: Personalization", "[07]: Start", "[08]: Taskbar", "[09]: Touch Keyboard", "[10]: Themes"]
 
+        print(*a, sep = "\n" )
+        print("\n")
+
         accsettings = perso[int(input("Enter a Number: "))]
 
         if accsettings == perso[0]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[1]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[2]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[3]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[4]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[5]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[6]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[7]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[8]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[9]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         if accsettings == perso[10]:
             os.system("start " + accsettings)
-            import Start
+            starter.start()
 
         
