@@ -84,7 +84,7 @@ if accsettings == list[8]:
         modul.accounts.netw()
         
 if accsettings == list[9]:
-        print("09")
+        modul.accounts.persona()
         exit
         
 if accsettings == list[10]:
