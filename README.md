@@ -77,7 +77,7 @@
        * [03]: Playing a game full screen
        * [04]: TruePlay
 
-[ x ]: Home page Settings page
+* [ x ]: Home page Settings page
 
        * [00]: Default browser 
        * [01]: Audio and speech
@@ -86,7 +86,7 @@
        * [04]: Uninstall	
        * [05]: Startup and desktop
 
-[ x ]: Network and internet Settings page
+* [ x ]: Network and internet Settings page
 
        * [00]: Advanced settings
        * [01]: Airplane mode	
@@ -101,7 +101,19 @@
        * [10]: Wi-Fi
        * [11]: Wi-Fi provisioning
 
-[   ]: Personalization Settings page
+* [ x ]: Personalization Settings page
+
+       * [00]: Background
+       * [01]: Choose which folders appear on Start
+       * [02]: Colors
+       * [03]: Glance
+       * [04]: Lock screen
+       * [05]: Navigation bar
+       * [06]: Personalization
+       * [07]: Start
+       * [08]: Taskbar
+       * [09]: Touch Keyboard
+       * [10]: Themes
 
 [   ]: Phone Settings page
 
