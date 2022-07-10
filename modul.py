@@ -387,6 +387,67 @@ class accounts:
             os.system("start " + accsettings)
             import Start
 
+        if accsettings == home[1]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[2]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[3]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[4]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[5]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[6]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[7]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[8]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[9]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[10]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[11]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[12]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[13]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[14]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == home[15]:
+            os.system("start " + accsettings)
+            import Start
+
+
     def netw():
         logo.logos.main_netw()
         #Network and internet
@@ -405,33 +466,8 @@ class accounts:
         #Wi-Fi	ms-settings:network-wifi (only available if the device has a wifi adapter)
         #Wi-Fi provisioning	ms-settings:wifi-provisioning
 
-        network = [
-            "ms-settings:network-advancedsettings",
-            "ms-settings:network-airplanemode #ms-settings:proximity",
-            "ms-settings:network-cellular",
-            "ms-settings:network-dialup",
-            "ms-settings:network-directaccess", #(only available if DirectAccess is enabled)
-            "ms-settings:network-ethernet",
-            "ms-settings:network-wifisettings",
-            "ms-settings:network-mobilehotspot",
-            "ms-settings:network-proxy",
-            "ms-settings:network-vpn",
-            "ms-settings:network-wifi", #(only available if the device has a wifi adapter)
-            "ms-settings:wifi-provisioning"
-            ]
-        a = [
-            "[00]: Advanced settings",
-            "[01]: Airplane mode",
-            "[02]: Cellular & SIM",	
-            "[03]: Dial-up",
-            "[04]: DirectAccess",
-            "[05]: Ethernet",
-            "[06]: Manage known networks",
-            "[07]: Mobile hotspot",
-            "[08]: Proxy",
-            "[09]: VPN",
-            "[10]: Wi-Fi",
-            "[11]: Wi-Fi provisioning"
+        network = ["ms-settings:network-advancedsettings", "ms-settings:network-airplanemode", "ms-settings:network-cellular", "ms-settings:network-dialup", "ms-settings:network-directaccess", "ms-settings:network-ethernet", "ms-settings:network-wifisettings", "ms-settings:network-mobilehotspot", "ms-settings:network-proxy", "ms-settings:network-vpn", "ms-settings:network-wifi", "ms-settings:wifi-provisioning"]
+        a = ["[00]: Advanced settings", "[01]: Airplane mode", "[02]: Cellular & SIM", "[03]: Dial-up", "[04]: DirectAccess", "[05]: Ethernet", "[06]: Manage known networks", "[07]: Mobile hotspot", "[08]: Proxy", "[09]: VPN", "[10]: Wi-Fi", "[11]: Wi-Fi provisioning"
             ]
 
         print(*a, sep = "\n" )
@@ -486,4 +522,71 @@ class accounts:
         if accsettings == network[11]:
             os.system("start " + accsettings)
             import Start
+        
+    def persona():
+
+        #Personalization
+        #Settings page	URI
+        #Background	ms-settings:personalization-background
+        #Choose which folders appear on Start	ms-settings:personalization-start-places
+        #Colors	ms-settings:personalization-colors
+        #ms-settings:colors
+        #Glance	ms-settings:personalization-glance (Deprecated in Windows 10, version 1809 and later)
+        #Lock screen	ms-settings:lockscreen
+        #Navigation bar	ms-settings:personalization-navbar (Deprecated in Windows 10, version 1809 and later)
+        #Personalization (category)	ms-settings:personalization
+        #Start	ms-settings:personalization-start
+        #Taskbar	ms-settings:taskbar
+        #Touch Keyboard	ms-settings:personalization-touchkeyboard
+        #Themes	ms-settings:themes
+
+        perso = ["ms-settings:personalization-background", "ms-settings:personalization-start-places", "ms-settings:personalization-colors", "ms-settings:personalization-glance", "ms-settings:lockscreen", "ms-settings:personalization-navbar", "ms-settings:personalization", "ms-settings:personalization-start", "ms-settings:taskbar", "ms-settings:personalization-touchkeyboard", "ms-settings:themes"]
+        a = ["[00]: Background", "[01]: Choose which folders appear on Start", "[02]: Colors", "[03]: Glance", "[04]: Lock screen", "[05]: Navigation bar", "[06]: Personalization", "[07]: Start", "[08]: Taskbar", "[09]: Touch Keyboard", "[10]: Themes"]
+
+        accsettings = perso[int(input("Enter a Number: "))]
+
+        if accsettings == perso[0]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[1]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[2]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[3]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[4]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[5]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[6]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[7]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[8]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[9]:
+            os.system("start " + accsettings)
+            import Start
+
+        if accsettings == perso[10]:
+            os.system("start " + accsettings)
+            import Start
+
         

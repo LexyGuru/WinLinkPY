@@ -101,7 +101,19 @@
        * [10]: Wi-Fi
        * [11]: Wi-Fi provisioning
 
-[   ]: Personalization Settings page
+* [ x ]: Personalization Settings page
+
+       * [00]: Background
+       * [01]: Choose which folders appear on Start
+       * [02]: Colors
+       * [03]: Glance
+       * [04]: Lock screen
+       * [05]: Navigation bar
+       * [06]: Personalization
+       * [07]: Start
+       * [08]: Taskbar
+       * [09]: Touch Keyboard
+       * [10]: Themes
 
 [   ]: Phone Settings page
 
