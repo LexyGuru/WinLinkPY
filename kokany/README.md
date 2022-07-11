@@ -9,7 +9,7 @@
        * [06]: Windows Hello setup
        * [07]: Your info
 
-* [   ]: Apps Settings page
+* [ x ]: Apps Settings page
 
        * [00]: Apps & Features
        * [01]: App features
@@ -20,7 +20,7 @@
        * [06]: Startup apps
        * [07]: Video playback
 
-* [   ]: Cortana Settings page
+* [ x ]: Cortana Settings page
 
        * [00]: Cortana across my devices
        * [01]: More details
@@ -28,7 +28,7 @@
        * [03]: Searching Windows
        * [04]: Talk to Cortana
 
-* [   ]: Devices Settings page
+* [ x ]: Devices Settings page
 
        * [00]: AutoPlay
        * [01]: Bluetooth
@@ -46,7 +46,7 @@
        * [13]: Wheel
        * [14]: Your phone
 
-* [   ]: Ease of access Settings page
+* [ x ]: Ease of access Settings page
 
        * [00]: Audio
        * [01]: Closed captions
@@ -65,11 +65,11 @@
        * [14]: Text cursor
        * [15]: Visual Effects
 
-* [   ]: Extras Settings page
+* [ x ]: Extras Settings page
 
        * [00]: Extras
 
-* [   ]: Gaming Settings page
+* [ x ]: Gaming Settings page
 
        * [00]: Game bar
        * [01]: Game DVR
@@ -77,7 +77,7 @@
        * [03]: Playing a game full screen
        * [04]: TruePlay
 
-* [   ]: Home page Settings page
+* [ x ]: Home page Settings page
 
        * [00]: Default browser 
        * [01]: Audio and speech
@@ -86,7 +86,7 @@
        * [04]: Uninstall	
        * [05]: Startup and desktop
 
-* [   ]: Network and internet Settings page
+* [ x ]: Network and internet Settings page
 
        * [00]: Advanced settings
        * [01]: Airplane mode	
@@ -101,7 +101,7 @@
        * [10]: Wi-Fi
        * [11]: Wi-Fi provisioning
 
-* [   ]: Personalization Settings page
+* [ x ]: Personalization Settings page
 
        * [00]: Background
        * [01]: Choose which folders appear on Start

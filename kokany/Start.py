@@ -1,6 +1,6 @@
-import modul
+import kokany.modul as modul
 import os
-import logo
+import kokany.logo as logo
 
 class starter():
     def start():
